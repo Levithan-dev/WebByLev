@@ -1,0 +1,12 @@
+#Headbanner{
+    background-color: rgb(52, 152, 253);
+    background-image: url();
+    background-repeat: no-repeat;
+    border:80px solid rgb(52, 152, 253);
+}
+#Lev{
+    text-align: center;
+    font-size:50px;
+    font-family: cursive;
+    text-shadow: 4px 4px slategray;
+}
