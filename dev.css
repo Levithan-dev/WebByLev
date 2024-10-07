@@ -1,0 +1,24 @@
+#title{
+    background-color:rgb(196, 183, 183);
+    display: inline-block;
+    border: 5px solid rgb(94, 93, 93);
+    border-radius: 2px;
+    font-size: 50px;
+}
+a{
+    color:rgb(141, 177, 44);
+    text-decoration: none;
+
+}
+main{
+    font-size: 30px;
+    background-color: rgb(255, 255, 255);
+    opacity: 0.8;
+    text-align: justify;
+}
+body{
+    background-image: url(image.png);
+    background-repeat: no-repeat;
+    background-size: 2000px;
+
+}

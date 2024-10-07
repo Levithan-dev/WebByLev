@@ -2,14 +2,19 @@
     background-color: rgb(52, 152, 253);
     background-image: url();
     background-repeat: no-repeat;
-    border:10px solid rgb(52, 152, 253);
+  
     position:static;
 }
+  
 #Lev{
-    text-align: center;
     font-size:50px;
     font-family: cursive;
     text-shadow: 4px 4px slategray;
+    border: solid black 5px;
+    display:inline-block;
+    padding:10px;
+    border-radius: 10px;
+    margin:2px;
 }
 span{
     margin:20px;
@@ -27,5 +32,24 @@ li{
     margin-inline:150px;
 }
 #banner{
-    position:absolute;
+    /* position:absolute; */
+}
+#welcome{
+
+    text-align:center;
+    color:yellow;
+    background-color: slategrey;
+    border-top: 30px solid slategrey;
+    border-bottom: 30px solid slategrey;
+    font-size: 40px;
+}
+body{
+    background-color: rgb(189, 181, 181);
+}
+a{
+    color: black;
+    border: solid 5px black;
+    background-color:rgb(110, 107, 107);
+    font-size:30px;
+    margin:5px;
 }

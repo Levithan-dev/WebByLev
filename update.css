@@ -1,0 +1,25 @@
+#title{
+    size:50px;
+    border:solid slategray 5px;
+    border-radius:7px;
+    background-color: slategray;
+    display:inline-block;
+
+}
+li{
+    list-style: none;
+    font-size: 30px;
+    
+   
+}
+main{
+    background-color: rgb(110, 109, 109);
+    opacity: 0.8;
+    text-align: justify;
+
+}
+body{
+    background-image: url(update.png);
+    background-size: 1950px;
+    background-repeat: no-repeat;
+}
